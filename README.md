@@ -10,4 +10,4 @@ This repository contains my practice exercises and homework from the **Git and G
 
 ### Tools Used
 * Git & GitHub
-* GitHub Desktop / IDE[cite: 1]
+* Git Bash
