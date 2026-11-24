@@ -1,4 +1,5 @@
 # SoftUni Exercise: Git and GitHub
+Date 24.11.2026
 
 This repository contains my practice exercises and homework from the **Git and GitHub** lecture in the **Python Advanced** course at SoftUni[cite: 1].
 
